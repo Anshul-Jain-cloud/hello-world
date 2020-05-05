@@ -1,2 +1,2 @@
 # hello-world
-This is my first repo in Git hub
+I am very intrested to write the Embedded C/C++ and new in git hub
